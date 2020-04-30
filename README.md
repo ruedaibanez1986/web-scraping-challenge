@@ -10,7 +10,15 @@ The first part of the process of gathering intel was to recollect the latest new
 
 After that, we collected some amazing full-size images from the planet Mars. 
 
+<img src= "images/mars_image1.png" width ="700">
+
+
 Also, we gathered from twitter the latest weather report. 
 
+<img src= "images/weather_table.png" width ="700">
+
 In the end, we gathered images from Mars Hemisphere. 
+
+<img src= "images/hemispheres.png" width ="700">
+
 
