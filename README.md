@@ -12,6 +12,8 @@
 
 ### After that, we collected some amazing full-size images from the planet Mars. 
 
+<img src= "images/mars_image2.png" width = "700">
+
 <img src= "images/mars_image1.png" width ="700">
 
 ### Also, we gathered from twitter the latest weather report. 
