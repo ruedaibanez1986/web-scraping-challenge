@@ -6,7 +6,7 @@ Some of the sources of information used to build this website were the main NASA
 
 The first part of the process of gathering intel was to recollect the latest news from the NASA website. 
 
-<img src= "Assets/raw_data_image.png" width ="700">
+<img src= "Assimages/news.png" width ="700">
 
 After that, we collected some amazing full-size images from the planet Mars. 
 
